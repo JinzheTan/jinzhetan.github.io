@@ -1,9 +1,8 @@
 main:
-
-  - title: From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems
-    authors: Samyar Janatian*, Hannes Westermann, <strong>Jinzhe Tan</strong>, Jaromir Savelka, Karim Benyekhlef (*Corresponding authors)
-    conference_short: JURIX
-    conference: International Conference on Legal Knowledge and Information Systems <strong>(JURIX)</strong>, 2023.
+  - title: "From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems"
+    authors: "Samyar Janatian*, Hannes Westermann, <strong>Jinzhe Tan</strong>, Jaromir Savelka, Karim Benyekhlef (*Corresponding authors)"
+    conference_short: "JURIX"
+    conference: "International Conference on Legal Knowledge and Information Systems <strong>(JURIX)</strong>, 2023."
     pdf: https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230962
     code: https://github.com/samyarj/JCAPG-JURIX2023/tree/main
     bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -20,3 +19,4 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+    
