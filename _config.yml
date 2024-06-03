@@ -20,9 +20,9 @@ linkedin: https://www.linkedin.com/in/jinzhe-tan-638b91200/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/img_tan.jpg
-favicon: ./assets/img/img_tan.jpg
-favicon_dark: ./assets/img/img_tan.jpg
+avatar: ./assets/img/img_tan.png
+favicon: ./assets/img/img_tan.png
+favicon_dark: ./assets/img/img_tan.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
