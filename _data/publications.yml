@@ -27,4 +27,4 @@ main:
     pdf: https://ceur-ws.org/Vol-3435/short2.pdf
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
-    image: .assets/img/chatgpt as an artificial lawyer.png
+    image: ./assets/img/chatgpt_as_an_artificial_lawyer.png
