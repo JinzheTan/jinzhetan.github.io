@@ -16,7 +16,7 @@ main:
     pdf: https://ceur-ws.org/Vol-3441/paper5.pdf
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: "Oral Presentation"
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/img_bridging_the_gap.png
 
   - title: "ChatGPT as an Artificial Lawyer?"
     authors: "<strong>Jinzhe Tan</strong>, Hannes Westermann, Karim Benyekhlef"
