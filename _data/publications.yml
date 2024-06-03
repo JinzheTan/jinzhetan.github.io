@@ -1,14 +1,15 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+  - title: From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems
+    authors: Samyar Janatian*, Hannes Westermann, <strong>Jinzhe Tan</strong>, Jaromir Savelka, Karim Benyekhlef (*Corresponding authors)
+    conference_short: JURIX
+    conference: International Conference on Legal Knowledge and Information Systems <strong>(JURIX)</strong>, 2023.
+    pdf: https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230962
+    code: https://github.com/samyarj/JCAPG-JURIX2023/tree/main
+    demo: https://colab.research.google.com/drive/1LHCRvBvlOQTW-0qwK3EUhJx8JqyXQo8s?usp=sharing
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Accepted
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
