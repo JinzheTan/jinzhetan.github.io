@@ -12,10 +12,8 @@ main:
   - title: "Bridging the Gap: Mapping Layperson Narratives to Legal Issues with Language Models"
     authors: "Hannes Westermann, Sébastien Meeùs, Mia Godet, Aurore Troussel, <strong>Jinzhe Tan</strong>, Jaromir Savelka, Karim Benyekhlef"
     conference_short: "CVPR"
-    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020."
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    conference: "Automated Semantic Analysis of Information in Legal Text <strong>(ASAIL 2023)</strong>, 2023."
+    pdf: https://ceur-ws.org/Vol-3441/paper5.pdf
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: "Oral Presentation"
     image: ./assets/img/teaser_example.png
