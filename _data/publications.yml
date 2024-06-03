@@ -11,8 +11,8 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Accepted
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "Bridging the Gap: Mapping Layperson Narratives to Legal Issues with Language Models"
+    authors: Hannes Westermann, Sébastien Meeùs, Mia Godet, Aurore Troussel, <strong>Jinzhe Tan</strong>, Jaromir Savelka, Karim Benyekhlef
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
