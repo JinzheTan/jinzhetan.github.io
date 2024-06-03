@@ -1,7 +1,7 @@
 main:
   - title: "From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems"
     authors: "Samyar Janatian*, Hannes Westermann, <strong>Jinzhe Tan</strong>, Jaromir Savelka, Karim Benyekhlef (*Corresponding authors)"
-    conference_short: "JURIX"
+    conference_short: "JURIX 2023"
     conference: "International Conference on Legal Knowledge and Information Systems <strong>(JURIX)</strong>, 2023."
     pdf: https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230962
     code: https://github.com/samyarj/JCAPG-JURIX2023/tree/main
@@ -11,7 +11,7 @@ main:
 
   - title: "Bridging the Gap: Mapping Layperson Narratives to Legal Issues with Language Models"
     authors: "Hannes Westermann*, Sébastien Meeùs, Mia Godet, Aurore Troussel, <strong>Jinzhe Tan</strong>, Jaromir Savelka, Karim Benyekhlef (*Corresponding authors)"
-    conference_short: "CVPR"
+    conference_short: "ASAIL 2023"
     conference: "Automated Semantic Analysis of Information in Legal Text <strong>(ASAIL 2023)</strong>, 2023."
     pdf: https://ceur-ws.org/Vol-3441/paper5.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Ey5B4UxN4Q8J:scholar.google.com/&output=citation&scisdr=ClE0pcsGEKTS-e8CcKY:AFWwaeYAAAAAZl4EaKZvg9HmvHlUDSETnvZTjRs&scisig=AFWwaeYAAAAAZl4EaIuvLeEPdkc4rHJpcv0q39U&scisf=4&ct=citation&cd=-1&hl=en
