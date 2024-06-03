@@ -12,8 +12,7 @@ I am always up for new colloborations in this exciting field, drop me an email i
 
 ## Research Interests
 
-- **Artificial Intelligence and Law** access to justice, generative ai
-- **Judicial Behavior**
+- **Artificial Intelligence and Law** generative ai, access to justice, judicial behavior
 
 ## News
 
