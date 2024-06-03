@@ -20,3 +20,11 @@ main:
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
     
+ - title: "ChatGPT as an Artificial Lawyer?"
+    authors: </strong>Jinzhe Tan</strong>, Hannes Westermann, Karim Benyekhlef
+    conference_short: AI4AJ 2023
+    conference: Artificial Intelligence for Access to Justice <strong>(AI4AJ)</strong>, 2023.
+    pdf: https://ceur-ws.org/Vol-3435/short2.pdf
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
