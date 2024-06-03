@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Faculty of Law, University of Montreal.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Artificial Intelligence and Law** access to justice, judicial behavior, generative ai
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
