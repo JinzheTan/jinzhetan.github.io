@@ -18,8 +18,10 @@ I am always up for new colloborations in this exciting field, drop me an email i
 
 - **[Dec. 2023]** Our paper "From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems" won the Best Paper Award at JURIX 2023. 🎉
 
+<!--  
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/talks.md %}
 
 {% include_relative _includes/services.md %}
+-->
