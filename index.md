@@ -21,4 +21,6 @@ I am always up for new colloborations in this exciting field, drop me an email i
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/talks.md %}
+
 {% include_relative _includes/services.md %}
