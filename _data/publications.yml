@@ -7,7 +7,7 @@ main:
     code: https://github.com/samyarj/JCAPG-JURIX2023/tree/main
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Oral Presentation
+    notes: "Oral Presentation"
 
   - title: "Bridging the Gap: Mapping Layperson Narratives to Legal Issues with Language Models"
     authors: "Hannes Westermann, Sébastien Meeùs, Mia Godet, Aurore Troussel, <strong>Jinzhe Tan</strong>, Jaromir Savelka, Karim Benyekhlef"
@@ -17,14 +17,14 @@ main:
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    notes: "Oral Presentation"
     image: ./assets/img/teaser_example.png
-    
- - title: "ChatGPT as an Artificial Lawyer?"
-    authors: "</strong>Jinzhe Tan</strong>, Hannes Westermann, Karim Benyekhlef"
+
+  - title: "ChatGPT as an Artificial Lawyer?"
+    authors: "<strong>Jinzhe Tan</strong>, Hannes Westermann, Karim Benyekhlef"
     conference_short: "AI4AJ 2023"
     conference: "Artificial Intelligence for Access to Justice <strong>(AI4AJ)</strong>, 2023."
     pdf: https://ceur-ws.org/Vol-3435/short2.pdf
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    notes: "Oral Presentation"
     image: ./assets/img/image_chatgpt.png
