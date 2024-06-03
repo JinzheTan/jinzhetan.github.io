@@ -10,9 +10,9 @@ main:
     notes: Oral Presentation
 
   - title: "Bridging the Gap: Mapping Layperson Narratives to Legal Issues with Language Models"
-    authors: Hannes Westermann, Sébastien Meeùs, Mia Godet, Aurore Troussel, <strong>Jinzhe Tan</strong>, Jaromir Savelka, Karim Benyekhlef
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    authors: "Hannes Westermann, Sébastien Meeùs, Mia Godet, Aurore Troussel, <strong>Jinzhe Tan</strong>, Jaromir Savelka, Karim Benyekhlef"
+    conference_short: "CVPR"
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020."
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -21,10 +21,10 @@ main:
     image: ./assets/img/teaser_example.png
     
  - title: "ChatGPT as an Artificial Lawyer?"
-    authors: </strong>Jinzhe Tan</strong>, Hannes Westermann, Karim Benyekhlef
-    conference_short: AI4AJ 2023
-    conference: Artificial Intelligence for Access to Justice <strong>(AI4AJ)</strong>, 2023.
+    authors: "</strong>Jinzhe Tan</strong>, Hannes Westermann, Karim Benyekhlef"
+    conference_short: "AI4AJ 2023"
+    conference: "Artificial Intelligence for Access to Justice <strong>(AI4AJ)</strong>, 2023."
     pdf: https://ceur-ws.org/Vol-3435/short2.pdf
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: .assets/img/chatgpt as an artificial lawyer.png
