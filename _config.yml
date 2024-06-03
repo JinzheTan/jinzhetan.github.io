@@ -24,6 +24,7 @@ avatar: ./assets/img/img_tan.jpg
 favicon: ./assets/img/img_tan.jpg
 favicon_dark: ./assets/img/img_tan.jpg
 
+
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: true
