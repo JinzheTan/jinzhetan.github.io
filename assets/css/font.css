@@ -3,17 +3,9 @@
 
 body {
   background-color: #fff;
-  padding:50px;
+  padding:0px;
   font: 16.0px/1.5 'Noto Serif', serif; 
   color:#595959;
   font-weight:400;
-  margin:8px;
-}
-
-@media screen and (max-width: 480px) {
-  body {
-    padding: 15px;
-    margin: 0;
-    font-size: 14px;
-  }
+  margin:0
 }

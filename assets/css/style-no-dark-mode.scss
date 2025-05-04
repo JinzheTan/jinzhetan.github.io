@@ -2,28 +2,3 @@
 ---
 
 @import "minimal-light-no-dark-mode";
-
-/* Mobile optimization styles */
-@media screen and (max-width: 480px) {
-  .wrapper {
-    width: auto !important;
-    padding: 0 !important;
-  }
-  
-  section {
-    width: auto !important;
-    float: none !important;
-    padding: 15px !important;
-  }
-  
-  header {
-    width: auto !important;
-    float: none !important;
-    text-align: center !important;
-    padding: 15px 0 !important;
-  }
-  
-  .clustrmaps-map iframe {
-    max-width: 100% !important;
-  }
-}
