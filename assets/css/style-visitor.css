@@ -1,0 +1,17 @@
+/* 访客地图样式 */
+.visitor {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+/* 调整clustrmap的大小 */
+.visitor #clustrmaps-widget-v2 {
+  transform: scale(0.75);
+  transform-origin: center top;
+}
+
+/* 确保外层容器不会因为缩放而产生滚动条 */
+.visitor {
+  overflow: hidden;
+} 
