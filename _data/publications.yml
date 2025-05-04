@@ -1,6 +1,6 @@
 main:
   - title: "Robots in the Middle: Evaluating LLMs in Dispute Resolution"
-    authors: "<strong>Jinzhe Tan</strong>*, Hannes Westermann, Nikhil Reddy Pottanigari, Jaromír Šavelka, Sébastien Meeùs, Mia Godet, Karim Benyekhlef (*Corresponding authors)"
+    authors: "Jinzhe Tan*, Hannes Westermann, Nikhil Reddy Pottanigari, Jaromír Šavelka, Sébastien Meeùs, Mia Godet, Karim Benyekhlef (*Corresponding authors)"
     conference_short: "JURIX 2024"
     conference: "International Conference on Legal Knowledge and Information Systems <strong>(JURIX)</strong>, 2024."
     pdf: https://ebooks.iospress.nl/doi/10.3233/FAIA241243
