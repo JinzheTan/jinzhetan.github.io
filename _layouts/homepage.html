@@ -29,6 +29,9 @@
 
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
+    
+    <!-- Add Google Sans font -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mortezaom/google-sans-cdn@master/fonts.css" />
 
     {% if site.font == "Sans Serif" %}
     <link rel="stylesheet" href="./assets/css/font_sans_serif.css">
@@ -47,7 +50,17 @@
       .image.avatar img {
         border-radius: 50%;
       }
-  </style>
+      
+      .clustrmaps-container {
+        margin-top: 2px;
+        text-align: left;
+      }
+      
+      .clustrmaps-map {
+        text-align: center;
+        margin: 15px 0;
+      }
+    </style>
 
   </head>
   <body>
@@ -112,15 +125,26 @@
 
       {{ content }}
 
+      <div class="clustrmaps-container">
+        <h2 id="pageviews" style="margin: 2px 0px -5px;">Pageviews</h2>
+        
+        <br>
+        
+        <div class="clustrmaps-map">
+          <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=396&t=n&d=SWEWMcOqgVzLnDGS5hb4iNyskhpvDA2b3vT6zQGFLHw&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+        </div>
+      </div>
+
       <br>
 
-      {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
-      {% endif %}
+      <div style="margin-top: 80px;">
+        {% if site.enable_footnote %}
+        <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+        {% endif %}
+      </div>
 
       </section>
       <footer>
-        
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
