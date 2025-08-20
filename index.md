@@ -29,4 +29,4 @@ I have published and presented my research at several international conferences,
 {% include_relative _includes/services.md %}
 -->
 
-{% include visitors.md %}
+{% include_relative _includes/visitors.md %}
