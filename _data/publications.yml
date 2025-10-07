@@ -5,7 +5,6 @@ main:
     conference: "International Conference on Legal Knowledge and Information Systems <strong>(JURIX)</strong>, 2024."
     pdf: https://ebooks.iospress.nl/doi/10.3233/FAIA241243
     code: https://github.com/JinzheTan/Robots_in_the_middle
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rxTZXXLaMTcJ:scholar.google.com/&output=citation&scisdr=ClE0pRX8EKTS-INsNGc:AFWwaeYAAAAAZzJqLGe9TKiY0qAlD-pdDym9wd4&scisig=AFWwaeYAAAAAZzJqLBoTGk-jUmdGs_GgBy8FBJ8&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/img_robots_in_the_middle.png
     notes: "Oral Presentation"
     
@@ -15,7 +14,6 @@ main:
     conference: "International Conference on Legal Knowledge and Information Systems <strong>(JURIX)</strong>, 2023."
     pdf: https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230962
     code: https://github.com/samyarj/JCAPG-JURIX2023/tree/main
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:OatHk6U5xaUJ:scholar.google.com/&output=citation&scisdr=ClE0pcsGEKTS-e8CZR4:AFWwaeYAAAAAZl4EfR7gBm7W2LgFu94wbl9B3Cc&scisig=AFWwaeYAAAAAZl4EfWqMq6Qg7484s_3iYr4zVO0&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/img_text_to_structure.png
     notes: "Best Paper Award"
 
@@ -24,7 +22,6 @@ main:
     conference_short: "ASAIL 2023"
     conference: "Automated Semantic Analysis of Information in Legal Text <strong>(ASAIL 2023)</strong>, 2023."
     pdf: https://ceur-ws.org/Vol-3441/paper5.pdf
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Ey5B4UxN4Q8J:scholar.google.com/&output=citation&scisdr=ClE0pcsGEKTS-e8CcKY:AFWwaeYAAAAAZl4EaKZvg9HmvHlUDSETnvZTjRs&scisig=AFWwaeYAAAAAZl4EaIuvLeEPdkc4rHJpcv0q39U&scisf=4&ct=citation&cd=-1&hl=en
     notes: "Oral Presentation"
     image: ./assets/img/img_bridging_the_gap.png
 
@@ -33,7 +30,7 @@ main:
     conference_short: "AI4AJ 2023"
     conference: "Artificial Intelligence for Access to Justice <strong>(AI4AJ)</strong>, 2023."
     pdf: https://ceur-ws.org/Vol-3435/short2.pdf
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Mc-1PNuCNIsJ:scholar.google.com/&output=citation&scisdr=ClE0pcsGEKTS-e8CXYg:AFWwaeYAAAAAZl4ERYhhex8cNV4ubET2JbPWBmc&scisig=AFWwaeYAAAAAZl4ERTpCMF9OrWuGhscMQWBBSFE&scisf=4&ct=citation&cd=-1&hl=en
+    code: https://github.com/JinzheTan/chatgpt-as-an-artificial-lawyer
     notes: "Oral Presentation"
     image: ./assets/img/image_chatgpt.png
     
@@ -42,6 +39,4 @@ main:
     conference_short: "JDS"
     conference: "Journal of Data Science <strong>(JDS)</strong>, 2023"
     pdf: https://scholar.archive.org/work/h7obfd62njepfpd3avvpdv4bqy/access/wayback/https://jds-online.org/journal/JDS/article/1290/file/pdf
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:HrknmKEIi60J:scholar.google.com/&output=citation&scisdr=ClE0pcsGEKTS-e8b5-M:AFWwaeYAAAAAZl4d_-OgRqf3nw9vc7IphEF0sL8&scisig=AFWwaeYAAAAAZl4d_4YdLueOZUs8NGKepJgTcek&scisf=4&ct=citation&cd=-1&hl=en
-    notes: "Published"
     image: ./assets/img/img_data_science.png

@@ -1,11 +1,27 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+/* Modern Serif Font Stack - Fraunces + JetBrains Mono */
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
 
 body {
   background-color: #fff;
   padding:0px;
-  font: 16.0px/1.5 'Noto Serif', serif; 
-  color:#595959;
+  font-family: "Fraunces", "Georgia", "Times New Roman", serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color:#2c3e50;
   font-weight:400;
-  margin:0
+  margin:0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Enhanced typography */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  color: #1a202c;
+}
+
+code, pre, .highlight {
+  font-family: "JetBrains Mono", "Fira Code", Consolas, Monaco, monospace;
+  font-size: 0.9em;
 }

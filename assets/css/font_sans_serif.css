@@ -1,14 +1,56 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&display=swap');
+/* Modern Font Stack - Inter + JetBrains Mono */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
 
 body {
     background-color: #fff;
     padding:50px;
-    font-family: "Noto Sans", sans-serif;
-    font-optical-sizing: auto;
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     font-weight: 400;
-    font-style: normal;
-    font-variation-settings: "wdth" 100;
-    font-size: 14px;
-    line-height: 1.5;
-    color:#595959;
+    font-size: 15px;
+    line-height: 1.6;
+    color:#2c3e50;
+    letter-spacing: -0.011em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
+
+/* Enhanced typography for modern look */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: #1a202c;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Code blocks with modern monospace font */
+code, pre, .highlight {
+  font-family: "JetBrains Mono", "Fira Code", Consolas, Monaco, monospace;
+  font-size: 0.9em;
+}
+
+/* Improved link styling */
+a {
+  color: #3182ce;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #2c5282;
+}
+
+/* Better strong/bold text */
+strong, b {
+  font-weight: 600;
+  color: #1a202c;
+}
