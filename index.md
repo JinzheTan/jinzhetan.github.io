@@ -19,6 +19,7 @@ I am always open to new collaborations—feel free to get in touch if you'd like
 
 ## <span id="news">News</span>
 
+- **[Nov. 2025]** I will be presenting on the topic "AI & Mediation" at the [27th Annual ODR Cyberweek 2025](https://odr.info/). 🤖⚖️
 - **[Oct. 2025]** I will be participating in the **Young Researchers Panel: "AI&Tech, Justice & Politics"** at the [ACT Partnership Conference 2025](https://www.ajcact.org/en/conference-2025/), discussing the autonomy of judicial actors in the AI era. 🔶⚖️
 - **[May. 2025]** I will be presenting my latest research on **AI and judicial decision-making** at the [7th Annual Meeting of Young Researchers in Digital Law](https://www.obvia.ca/evenements/7e-edition-rencontre-des-jeunes-chercheuses-et-chercheurs-en-droit-numerique)! 🧠⚖️
 - **[Mar. 2025]** Excited to share our work on **LLMediator**, a project using LLMs to support dispute resolution, featured in a public event on [AI's legal implications in the business world](https://www.crdp.umontreal.ca/nouvelles/2025/03/12/au-dela-du-battage-mediatique-les-incidences-juridiques-de-lia-en-entreprise/). 🤖🤝  
