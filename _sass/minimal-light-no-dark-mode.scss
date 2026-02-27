@@ -213,12 +213,12 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:#2b7ab5;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:#1a5a8a;
 }
 
 a small {
@@ -233,8 +233,10 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  max-width:960px;
+  width:100%;
   margin:0 auto;
+  box-sizing:border-box;
 }
 
 blockquote {
@@ -381,15 +383,20 @@ footer {
 
 @media print, screen and (max-width: 960px) {
 
+  body {
+    word-wrap:break-word;
+    padding:15px;
+  }
+
   .pub-row {
-  display: flex; 
-  align-items: center;}
+    display: flex; 
+    align-items: center;
+  }
 
   div.wrapper {
     width:auto;
     margin:0;
   }
-
 
   header, section, footer {
     float:none;
@@ -398,7 +405,7 @@ footer {
   }
 
   header {
-    padding-right:320px;
+    padding:0;
   }
 
   section {
@@ -418,38 +425,18 @@ footer {
     top:52px;
   }
 
+  .image.avatar img {
+    border-radius: 100%;
+    width: 117px;
+    padding:20px;
+  }
 
-   .image.avatar img {
-        border-radius: 100%;
-        width: 117px;
-        padding:20px;
-      }
   #head1o2 {
     visibility: hidden;
   }
       
   #head2o2 {
     visibility: hidden;
-  }
-  
-}
-
-@media print, screen and (max-width: 960px) {
-  body {
-    word-wrap:break-word;
-    padding:15px;
-  }
-
-  .pub-row {
-  display: flex; 
-  align-items: center;}
-
-  header {
-    padding:0;
-  }
-
-  header ul, header p.view {
-    
   }
 
   pre, code {

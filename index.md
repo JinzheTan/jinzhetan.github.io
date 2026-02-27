@@ -19,6 +19,10 @@ I am always open to new collaborations—feel free to get in touch if you'd like
 
 ## <span id="news">News</span>
 
+- **[Dec. 2025]** Presented *Enhancing Judicial Autonomy Using Artificial Intelligence* at the [University of Hong Kong Faculty of Law](https://hkuems1.hku.hk/hkuems/ec_regform.aspx?guest=Y&UEID=104415). 🏛️
+- **[Dec. 2025]** Presented *LegalWebAgent: Empowering Access to Justice via LLM-Based Web Agents* at the **AIDA2J Workshop** at JURIX 2025, Turin. 🤖⚖️
+- **[Dec. 2025]** Presented *LLMediator* at the **2025 International Conference on Computational Law** (计算法学国际会议) in Shanghai. 🇨🇳
+- **[Nov. 2025]** Participated in the **6th Social Science Law Research Camp & "Law and Social Science" Annual Meeting** (社科法学研习营暨年会) at Zhongnan University of Economics and Law, Wuhan. 🎓
 - **[Nov. 2025]** I will be presenting on the topic "AI & Mediation" at the [27th Annual ODR Cyberweek 2025](https://odr.info/). 🤖⚖️
 - **[Oct. 2025]** I will be participating in the **Young Researchers Panel: "AI&Tech, Justice & Politics"** at the [ACT Partnership Conference 2025](https://www.ajcact.org/en/conference-2025/), discussing the autonomy of judicial actors in the AI era. 🔶⚖️
 - **[May. 2025]** I will be presenting my latest research on **AI and judicial decision-making** at the [7th Annual Meeting of Young Researchers in Digital Law](https://www.obvia.ca/evenements/7e-edition-rencontre-des-jeunes-chercheuses-et-chercheurs-en-droit-numerique)! 🧠⚖️
