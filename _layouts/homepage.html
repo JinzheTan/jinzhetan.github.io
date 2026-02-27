@@ -253,10 +253,10 @@
       }
       
       .education-logo {
-        width: 24px;
-        height: 24px;
+        width: 36px;
+        height: 36px;
         object-fit: contain;
-        margin-right: 10px;
+        margin-right: 12px;
         flex-shrink: 0;
       }
       
@@ -348,6 +348,98 @@
         }
       }
       
+      /* Scrollable News Section */
+      .news-scroll {
+        max-height: 250px;
+        overflow-y: auto;
+        position: relative;
+        padding-right: 4px;
+        scroll-behavior: smooth;
+      }
+
+      .news-scroll ul {
+        margin: 0;
+        padding-left: 20px;
+      }
+
+      .news-scroll li {
+        padding: 4px 0;
+        line-height: 1.6;
+      }
+
+      .news-scroll::-webkit-scrollbar {
+        width: 4px;
+      }
+
+      .news-scroll::-webkit-scrollbar-track {
+        background: transparent;
+        border-radius: 4px;
+      }
+
+      .news-scroll::-webkit-scrollbar-thumb {
+        background: rgba(0, 0, 0, 0.15);
+        border-radius: 4px;
+      }
+
+      .news-scroll::-webkit-scrollbar-thumb:hover {
+        background: rgba(0, 0, 0, 0.3);
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .news-scroll::-webkit-scrollbar-thumb {
+          background: rgba(255, 255, 255, 0.15);
+        }
+        .news-scroll::-webkit-scrollbar-thumb:hover {
+          background: rgba(255, 255, 255, 0.3);
+        }
+      }
+
+      /* Firefox scrollbar */
+      .news-scroll {
+        scrollbar-width: thin;
+        scrollbar-color: rgba(0, 0, 0, 0.15) transparent;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .news-scroll {
+          scrollbar-color: rgba(255, 255, 255, 0.15) transparent;
+        }
+      }
+
+      /* Bottom fade overlay to indicate more content */
+      .news-scroll-wrapper {
+        position: relative;
+      }
+
+      .news-scroll-wrapper::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 40px;
+        background: linear-gradient(to bottom, transparent, #fff);
+        pointer-events: none;
+        transition: opacity 0.3s ease;
+        border-radius: 0 0 4px 4px;
+      }
+
+      .news-scroll-wrapper.scrolled-bottom::after {
+        opacity: 0;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .news-scroll-wrapper::after {
+          background: linear-gradient(to bottom, transparent, #20212b);
+        }
+      }
+
+      @media (max-width: 768px) {
+        .news-scroll {
+          max-height: 200px;
+        }
+      }
+
       /* Smooth transitions for all interactive elements */
       a, button, .nav-links a {
         transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
@@ -773,6 +865,23 @@
             document.body.style.overflow = '';
           }
         });
+
+        // News scroll: wrap in wrapper div and handle fade
+        var newsScroll = document.querySelector('.news-scroll');
+        if (newsScroll) {
+          var wrapper = document.createElement('div');
+          wrapper.className = 'news-scroll-wrapper';
+          newsScroll.parentNode.insertBefore(wrapper, newsScroll);
+          wrapper.appendChild(newsScroll);
+
+          function checkScrollEnd() {
+            var atBottom = newsScroll.scrollHeight - newsScroll.scrollTop - newsScroll.clientHeight < 2;
+            wrapper.classList.toggle('scrolled-bottom', atBottom);
+          }
+
+          newsScroll.addEventListener('scroll', checkScrollEnd, { passive: true });
+          checkScrollEnd();
+        }
       })();
     </script>
     
