@@ -21,7 +21,7 @@ I am always open to new collaborations—feel free to get in touch if you'd like
 
 <div class="news-scroll" role="log" aria-label="News updates" markdown="1">
 
-- **[Dec. 2025]** Presented *Enhancing Judicial Autonomy Using Artificial Intelligence* at the [University of Hong Kong Faculty of Law](https://hkuems1.hku.hk/hkuems/ec_regform.aspx?guest=Y&UEID=104415). 🏛️
+- **[Dec. 2025]** Presented *Enhancing Judicial Autonomy Using Artificial Intelligence* at the University of Hong Kong Faculty of Law. 🏛️
 - **[Dec. 2025]** Presented *LegalWebAgent: Empowering Access to Justice via LLM-Based Web Agents* at the **AIDA2J Workshop** at JURIX 2025, Turin. 🤖⚖️
 - **[Dec. 2025]** Presented *LLMediator* at the **2025 International Conference on Computational Law** in Shanghai. 🇨🇳
 - **[Nov. 2025]** Participated in the **6th Social Science Law Research Camp & "Law and Social Science" Annual Meeting** at Zhongnan University of Economics and Law, Wuhan. 🎓
