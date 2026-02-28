@@ -49,7 +49,7 @@ I am always open to new collaborations—feel free to get in touch if you'd like
 </div>
 
 <div class="education-item">
-  <img src="./assets/img/logo_sapienza.png" alt="Sapienza University of Rome Logo" class="education-logo">
+  <img src="./assets/img/logo_sapienza.png" alt="Sapienza University of Rome Logo" class="education-logo education-logo-crop">
   <div>
     M.A. in European Law, Sapienza University of Rome (2019 - 2021)
   </div>
