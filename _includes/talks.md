@@ -9,4 +9,3 @@
   <li><a href="https://www.youtube.com/watch?v=uFeU2MXnkcY&t=748s"><autocolor>JusticeBot: Perspectives for the future (Annual conference of Autonomy Through Cyberjustice Technologies Projects, October 2022)</autocolor></a></li>
 </ul>
 
-<div style="margin-bottom: 50px;"></div>

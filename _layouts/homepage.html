@@ -250,11 +250,35 @@
         }
       }
 
+      /* --- Body text: justified paragraphs --- */
+      section > p,
+      section .news-scroll-wrapper p {
+        text-align: justify;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+      }
+
+      /* --- Consistent section heading spacing --- */
+      section > h2,
+      section .publications h2 {
+        margin-top: 28px;
+        margin-bottom: 16px;
+      }
+
+      section > h2:first-child {
+        margin-top: 0;
+      }
+
+      /* --- Talks list item spacing --- */
+      section ul li {
+        margin-bottom: 6px;
+      }
+
       /* --- Education --- */
       .education-item {
         display: flex;
         align-items: center;
-        margin-bottom: 10px;
+        margin-bottom: 18px;
       }
 
       .education-logo {
