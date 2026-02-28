@@ -1,6 +1,6 @@
 ## <span id="talks">Selected Talks</span>
 
-<ul style="margin:0 0 5px;">
+<ul>
 <li><autocolor>Enhancing Judicial Autonomy Using Artificial Intelligence (University of Hong Kong Faculty of Law, December 2025)</autocolor></li>
   <li><autocolor>LegalWebAgent: Empowering Access to Justice via LLM-Based Web Agents (AIDA2J Workshop at JURIX, December 2025)</autocolor></li>
   <li><autocolor>Between Human and AI: What Makes a Mediator? (Au-delà du battage médiatique : Les incidences juridiques de l'IA en entreprise, April 2025)</autocolor></li>
